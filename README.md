@@ -1,2 +1,2 @@
-# First-git-cr7
-This isy first git repository 
+# climate change analysis graphically 
+This is my first git repository 
